@@ -1,1 +1,5 @@
-# Website-Restaurant-Management
+# ReserveRight - Restaurant Management
+
+## Installation
+
+## Run Locally
